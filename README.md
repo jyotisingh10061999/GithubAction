@@ -6,3 +6,4 @@ https://snehalchaure.medium.com/create-and-push-docker-image-to-amazon-ecr-with-
 test
 GitHub Actions Test
 Fri Nov 13 16:15:35 UTC 2026
+retry
